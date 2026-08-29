@@ -23,10 +23,6 @@ Computer Science · Computer Vision · Backend Development · Open Source
 
 <br/><br/>
 
-<samp>
-「 写一点代码，读一点论文，再偶尔抬头看看星星。 」
-</samp>
-
 </div>
 
 ---
@@ -39,5 +35,6 @@ Most of the time, I'm somewhere between experimenting with models,
 designing systems, writing Go, and turning strange ideas into repositories.
 
 > [!tip]
-> Not everything has to become something important.
-> Sometimes building it is already enough.
+> <samp>
+<b>「This story is started by you」</b>
+</samp>
