@@ -1,0 +1,1240 @@
+{
+  "version": 1,
+  "site": {
+    "title": "世界建筑地图",
+    "subtitle": "在地图上选择一个兴趣点"
+  },
+  "points": [
+    {
+      "id": "32428833-4c51-47a6-80e0-a85893652d03",
+      "title": "中央图书馆",
+      "x": -266,
+      "z": -426,
+      "summary": "岛内最大的图书馆",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/32428833-4c51-47a6-80e0-a85893652d03/2026-09-07_15-08-19-5e89dec6.webp",
+          "alt": "中央图书馆的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/32428833-4c51-47a6-80e0-a85893652d03/2026-09-07_15-08-48-a2c7686f.webp",
+          "alt": "中央图书馆的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/32428833-4c51-47a6-80e0-a85893652d03/2026-09-07_15-11-16-6395c656.webp",
+          "alt": "中央图书馆的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fe8616"
+    },
+    {
+      "id": "bb644b24-f2b1-4252-ab61-fa8ec273bbd7",
+      "title": "对角巷商店",
+      "x": -263,
+      "z": -444,
+      "summary": "三角商店，一楼交易，二楼住宿",
+      "description": "本来打算做成一个旅馆，但由于楼建太高违反了岛内《限高法案》，因此最后做成了小商店",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/bb644b24-f2b1-4252-ab61-fa8ec273bbd7/2026-09-07_15-25-38-67772b70.webp",
+          "alt": "对角巷商店的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/bb644b24-f2b1-4252-ab61-fa8ec273bbd7/2026-09-07_15-25-54-cdf2687c.webp",
+          "alt": "对角巷商店的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/bb644b24-f2b1-4252-ab61-fa8ec273bbd7/2026-09-07_15-26-04-db2c101f.webp",
+          "alt": "对角巷商店的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "7ec2fe1c-cef5-4f65-8edd-eee40a5c29c6",
+      "title": "中央咖啡馆",
+      "x": -311,
+      "z": -423,
+      "summary": "来源于旧存档，由于历史地位比较高，因此建在了岛中央",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/7ec2fe1c-cef5-4f65-8edd-eee40a5c29c6/2026-09-07_14-43-55-12ffb456.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/7ec2fe1c-cef5-4f65-8edd-eee40a5c29c6/2026-09-07_14-44-06-c1115487.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/7ec2fe1c-cef5-4f65-8edd-eee40a5c29c6/2026-09-07_14-44-38-f77af2ad.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fe8616"
+    },
+    {
+      "id": "ebfe40c0-0eac-4168-97ec-bf8e4516c07d",
+      "title": "钓鱼小屋",
+      "x": -410,
+      "z": -236,
+      "summary": "孤悬岛外，但离岛不远",
+      "description": "我觉得适合有一个既生活在岛的辐射范围内，又和岛关联不大的地方。\n嗯，这里很合适。生活在这里我既是岛的一份子，又可以不是",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/ebfe40c0-0eac-4168-97ec-bf8e4516c07d/2026-07-25_10-51-56-936c6d5e.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "97f7f8ee-e04f-4eb5-a8cb-74eaea92b6e7",
+      "title": "向日葵餐厅",
+      "x": -406,
+      "z": -342,
+      "summary": "我是: BGX_A !!!",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fe8616"
+    },
+    {
+      "id": "a3b28bb2-5131-46cc-b9d9-5d5c6f09fc77",
+      "title": "工业区",
+      "x": -382,
+      "z": -502,
+      "summary": "为岛内量产绝大多数的资源和材料",
+      "description": "地图上整个石头的区域都是工业区",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/a3b28bb2-5131-46cc-b9d9-5d5c6f09fc77/2026-09-07_14-34-44-5cbfa0fe.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/a3b28bb2-5131-46cc-b9d9-5d5c6f09fc77/2026-09-07_14-35-35-8ab3f5a3.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#ef6b6b"
+    },
+    {
+      "id": "9cd5950f-ad84-47c3-8ef9-81952466293a",
+      "title": "南港",
+      "x": -363,
+      "z": -319,
+      "summary": "里岛的南出海口",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/9cd5950f-ad84-47c3-8ef9-81952466293a/2026-09-07_15-42-08-4e564e10.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#6b97ef"
+    },
+    {
+      "id": "daa5f6b2-479a-4f29-be37-277f8374d61e",
+      "title": "南港报刊",
+      "x": -392,
+      "z": -310,
+      "summary": "面朝大海，春暖花开",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/daa5f6b2-479a-4f29-be37-277f8374d61e/2026-09-07_15-41-59-cb3967fa.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fe8616"
+    },
+    {
+      "id": "a034de69-0a66-4de1-88eb-35031e7d7470",
+      "title": "滨口站",
+      "x": -761,
+      "z": -376,
+      "summary": "西出海列车的中途停靠站",
+      "description": "本站名字是用于纪念开荒是，从西面回来时，全部依靠“冰霜行者”跨海而行",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/a034de69-0a66-4de1-88eb-35031e7d7470/2026-06-20_18-50-13-bf5ec04c.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "89904395-88ee-4038-bb40-b360335acc79",
+      "title": "海上钻井平台",
+      "x": -192,
+      "z": -603,
+      "summary": "真正孤悬海外的一个地方",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/89904395-88ee-4038-bb40-b360335acc79/2026-06-28_15-02-07-88ecc480.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/89904395-88ee-4038-bb40-b360335acc79/2026-07-25_10-37-03-e9c61eee.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "fd277d1a-2416-4e88-af0e-25db26fd9c8c",
+      "title": "里岛北港",
+      "x": -313,
+      "z": -523,
+      "summary": "里岛的北出海口",
+      "description": "本建筑集港口与居住一体，好处是距离工业区特近，资源拿的最快；坏处是和善魂港挨在一起，很吵",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/fd277d1a-2416-4e88-af0e-25db26fd9c8c/2026-09-07_15-32-31-62103999.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#6b97ef"
+    },
+    {
+      "id": "63ba8749-7000-4c8b-aa5c-fb275ea57c23",
+      "title": "里岛东北港",
+      "x": -212,
+      "z": -482,
+      "summary": "里岛最早修建的港口",
+      "description": "本港口更多是提供住宿以及养殖鹦鹉螺",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/63ba8749-7000-4c8b-aa5c-fb275ea57c23/2026-09-07_15-34-02-a53ca5e4.webp",
+          "alt": "里岛西北港的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/63ba8749-7000-4c8b-aa5c-fb275ea57c23/2026-09-07_15-34-14-06fa3800.webp",
+          "alt": "里岛西北港的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#6b97ef"
+    },
+    {
+      "id": "868409de-4577-482e-818e-de30feaf6d86",
+      "title": "里岛东南港",
+      "x": -206,
+      "z": -382,
+      "summary": "里岛的东南出海口",
+      "description": "是里岛最大的出海口，开荒时期大部分从这个港口回岛",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/868409de-4577-482e-818e-de30feaf6d86/2026-09-07_14-39-58-b11ff83a.webp",
+          "alt": "里岛西南港的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#6b97ef"
+    },
+    {
+      "id": "27f0887d-dff9-43bd-9ed8-6a86dfa5b90e",
+      "title": "地狱大厅入口",
+      "x": -255,
+      "z": -272,
+      "summary": "直达基岩上层的主地狱大厅",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/27f0887d-dff9-43bd-9ed8-6a86dfa5b90e/2026-02-11_11-44-31-8241f243.webp",
+          "alt": "地狱大厅入口的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "4ba51f60-9a6f-4759-8b19-6b423f769b9b",
+      "title": "旧村民交易所",
+      "x": -316,
+      "z": -329,
+      "summary": "里岛最早的村民交易所",
+      "description": "这里生活着里岛村庄唯一一个原住民：“拥有经验修补的图书管理员：Bob”",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/4ba51f60-9a6f-4759-8b19-6b423f769b9b/2026-09-07_15-38-48-a8508a4a.webp",
+          "alt": "旧村民交易所的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#95f745"
+    },
+    {
+      "id": "fc10e8e6-eab4-4481-aaf4-ba2db4021ce7",
+      "title": "旧村民繁殖机",
+      "x": -323,
+      "z": -315,
+      "summary": "目前村庄内的村民几乎都是从这里出来的（除了从外面带回来的不同群戏的村民）",
+      "description": "好像已经不能用了……",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/fc10e8e6-eab4-4481-aaf4-ba2db4021ce7/2026-09-07_15-39-08-bed42e50.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#95f745"
+    },
+    {
+      "id": "16719f6b-07d8-4a4a-a38e-d859a49d9891",
+      "title": "工业区鸟居",
+      "x": -340,
+      "z": -521,
+      "summary": "早期工业区前往地狱获取岩浆的通道",
+      "description": "为了防止地狱门串门，现在里岛上只允许使用唯一的“地狱大厅入口”的地狱门",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/16719f6b-07d8-4a4a-a38e-d859a49d9891/2026-03-27_10-41-59-7ab3a721.webp",
+          "alt": "工业区鸟居的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "c38e3531-6a1d-469a-bf41-930547752ab1",
+      "title": "畜棚",
+      "x": -348,
+      "z": -456,
+      "summary": "养殖所有可以养殖的家畜",
+      "description": "开荒使其养动物的地方，提供了大部分的食物",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/c38e3531-6a1d-469a-bf41-930547752ab1/2026-09-07_15-28-33-3df2f562.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/c38e3531-6a1d-469a-bf41-930547752ab1/2026-09-07_15-28-47-6a650f22.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/c38e3531-6a1d-469a-bf41-930547752ab1/2026-01-21_19-04-34-7a7eb398.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "d08e2c3a-14d9-492f-aee7-d74b88b8288b",
+      "title": "里岛蜂房",
+      "x": -279,
+      "z": -445,
+      "summary": "中心蜂房，岛内蜂蜜的主要来源",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/d08e2c3a-14d9-492f-aee7-d74b88b8288b/2026-07-25_11-04-28-0adef84a.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#95f745"
+    },
+    {
+      "id": "091e0ce8-10f5-4419-a687-696289c21085",
+      "title": "我的家",
+      "x": -368,
+      "z": -399,
+      "summary": "我最早建的家，位于岛内最高处",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/091e0ce8-10f5-4419-a687-696289c21085/2026-05-28_21-37-17_2-da6d070b.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#6bef93"
+    },
+    {
+      "id": "0bcfafbc-54fe-4dc8-881e-f8f47e0a11b0",
+      "title": "风帆战舰",
+      "x": -219,
+      "z": -332,
+      "summary": "隶属于西南港的战船",
+      "description": "新二号村民交易所，主要用于村民交易",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/0bcfafbc-54fe-4dc8-881e-f8f47e0a11b0/2026-05-28_21-32-20-1bbd6e36.webp",
+          "alt": "风帆战舰的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#95f745"
+    },
+    {
+      "id": "ac77df14-529c-44f4-a7d2-09e23fc797e2",
+      "title": "火药塔",
+      "x": -128,
+      "z": -231,
+      "summary": "为里岛提供远远不断地火药",
+      "description": "由 TheoBaldTheBot 进行挂机获取",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/ac77df14-529c-44f4-a7d2-09e23fc797e2/2026-02-24_18-32-39-1e033907.webp",
+          "alt": "火药塔的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#ef6b6b"
+    },
+    {
+      "id": "a3eb8181-fc8a-41b5-9918-0a56a587e4f2",
+      "title": "后山图书馆",
+      "x": -382,
+      "z": -431,
+      "summary": "离家更近的图书馆，可以俯瞰整个工业区",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "8d58e767-f009-47be-94f3-aaeb8fa9faf3",
+      "title": "鸽子",
+      "x": -419,
+      "z": -454,
+      "summary": "咕咕咕",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/8d58e767-f009-47be-94f3-aaeb8fa9faf3/2026-07-25_10-53-07-5d331a11.webp",
+          "alt": "鸽子的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#ef6bd7"
+    },
+    {
+      "id": "8d704b25-76d8-4908-bd43-17afe2cb9d93",
+      "title": "稀有物品展览馆",
+      "x": -388,
+      "z": -356,
+      "summary": "收藏了大部分的稀有物品",
+      "description": "有嘎吱进行看护",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/8d704b25-76d8-4908-bd43-17afe2cb9d93/2026-06-12_20-50-03-3701f3ef.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/8d704b25-76d8-4908-bd43-17afe2cb9d93/2026-09-07_15-16-47-bc89ed62.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/8d704b25-76d8-4908-bd43-17afe2cb9d93/2026-09-07_15-17-02-62d2dd9b.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "5a7d6718-544a-4764-ba36-aa8c6b6c8f9f",
+      "title": "里岛村庄",
+      "x": -320,
+      "z": -378,
+      "summary": "里岛上定居的村庄",
+      "description": "原住民除Bob还在旧村民交易所工作外，其它村民全部死于V级袭击",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "0fe7d96c-7eb7-44a2-8bc8-8f124c47ff05",
+      "title": "竞技场",
+      "x": -262,
+      "z": -356,
+      "summary": "里岛西南角最平坦的一片地方，作为竞技场再适合不过了",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fe8616"
+    },
+    {
+      "id": "1b75487f-2332-4a98-be68-1c8a9e84f4fe",
+      "title": "刷石机",
+      "x": -358,
+      "z": -504,
+      "summary": "工业区第一个生电机器",
+      "description": "标志着开荒期结束，进入工业化时代\n\n图里这个当时机器炸膛了 :(",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/1b75487f-2332-4a98-be68-1c8a9e84f4fe/2025-12-08_19-08-43-8179435e.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#ef6b6b"
+    },
+    {
+      "id": "58363938-f2ae-4af2-b3a9-9a6b084e6e82",
+      "title": "议会大厅",
+      "x": -234,
+      "z": -358,
+      "summary": "寻思着没事开个会呗",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fe8616"
+    },
+    {
+      "id": "6ba7aad7-cd57-425d-82a7-633474e6e170",
+      "title": "MoonShot药水铺",
+      "x": -266,
+      "z": -403,
+      "summary": "MoonShot 药水店",
+      "description": "进了这间屋子，黑道白道上的人，谁都不敢动你",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/6ba7aad7-cd57-425d-82a7-633474e6e170/2026-05-28_21-22-46-d7e25332.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#95f745"
+    },
+    {
+      "id": "905359b9-2881-41f2-a5ac-1b5102b355c6",
+      "title": "东南港瞭望塔",
+      "x": -189,
+      "z": -406,
+      "summary": "望向远方",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "06d8f1db-f2ae-4ca0-953a-3a818708d411",
+      "title": "南港灯塔",
+      "x": -356,
+      "z": -338,
+      "summary": "照亮回家的路",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "eae248c5-cccf-4c34-b36e-10f997917322",
+      "title": "瓶子餐厅",
+      "x": -373,
+      "z": -333,
+      "summary": "约会好去处",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "5bedad35-89a5-451d-8009-baefdc9e5052",
+      "title": "里岛地狱门旧址",
+      "x": -434,
+      "z": -312,
+      "summary": "目前已经弃用",
+      "description": "这里关押着一些下届过来的生物；\n任何人不得使用这个地狱门，即使它已经被点亮",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "1a7930f4-5984-4001-a6f0-177c2ac6363f",
+      "title": "里岛风车",
+      "x": -359,
+      "z": -428,
+      "summary": "为什么风车不能转",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "e030f9af-253c-4fd1-8d65-a28c20c18948",
+      "title": "中央仓库",
+      "x": -338,
+      "z": -414,
+      "summary": "里岛全部资源位于此处",
+      "description": "它储量不大，存储无逻辑，不方便，但这是开荒时期全部的资源存储地。\n后续计划修建新的仓库，旧仓库只作为纪念意义保留",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#95f745"
+    },
+    {
+      "id": "bb1eeaf8-24df-4865-8595-fc773381bf88",
+      "title": "中央附魔室",
+      "x": -350,
+      "z": -403,
+      "summary": "最早的附魔台所在地",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#95f745"
+    },
+    {
+      "id": "e595ae45-1207-449a-a639-0ab0639c7f78",
+      "title": "里岛村民工作站",
+      "x": -330,
+      "z": -354,
+      "summary": "拥有里岛合法村民身份的村民的工作站",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "a2061b94-cde1-402a-b166-ab62dcc822e9",
+      "title": "圣诞树",
+      "x": -292,
+      "z": -353,
+      "summary": "圣诞节快乐🎄",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/a2061b94-cde1-402a-b166-ab62dcc822e9/2026-01-11_14-31-58-a84f4341.webp",
+          "alt": "圣诞树的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/a2061b94-cde1-402a-b166-ab62dcc822e9/2026-01-11_14-32-15-6d4ff013.webp",
+          "alt": "圣诞树的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "9e90c595-57b0-487b-b9d6-72dee4e102d9",
+      "title": "故居",
+      "x": -364,
+      "z": -364,
+      "summary": "这是我小时候玩PE版的一辈子存档时建造的第一个家",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "635205c9-028b-4d26-9b8a-b97c644ead23",
+      "title": "狐狸小窝",
+      "x": -380,
+      "z": -389,
+      "summary": "养狐狸的地方",
+      "description": "认识一下：",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/635205c9-028b-4d26-9b8a-b97c644ead23/2026-08-08_09-20-25-cb0e7ad1.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "3d636a3f-79e8-43c1-a6ff-c6258b7cb058",
+      "title": "钟楼",
+      "x": -414,
+      "z": -377,
+      "summary": "西岸滨海小镇的第一座建筑",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "9b9a3555-f38a-4a5a-b63e-9b9446e3b9f7",
+      "title": "花花裁缝铺",
+      "x": -211,
+      "z": -404,
+      "summary": "里岛唯一一个裁缝铺",
+      "description": "所有的旗帜，盾牌都产自于这里",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#95f745"
+    },
+    {
+      "id": "66ca9dc2-aeb3-455b-a8b5-1872db42ca9b",
+      "title": "里岛马厩",
+      "x": -209,
+      "z": -440,
+      "summary": "我的私人养马空间",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/66ca9dc2-aeb3-455b-a8b5-1872db42ca9b/2026-09-07_15-34-55-b404c278.webp",
+          "alt": "里岛马厩的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "0d980035-f570-4ab3-973e-a1a1c6691438",
+      "title": "骆驼铺子",
+      "x": -193,
+      "z": -444,
+      "summary": "养骆驼的地方",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/0d980035-f570-4ab3-973e-a1a1c6691438/2026-09-07_15-36-13-e0e5b6e4.webp",
+          "alt": "骆驼铺子的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "d57731b5-85e4-4913-b20d-9ce5bb1664b3",
+      "title": "萤火虫小屋",
+      "x": -232,
+      "z": -449,
+      "summary": "刷萤火虫的你可见过？",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "b3012c42-3abc-4d6d-8066-9b96c8e2a3a9",
+      "title": "朋友的小屋",
+      "x": -252,
+      "z": -461,
+      "summary": "联机时说是不和我住一起",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "15d1c521-0d12-45ac-a9a5-3819fb56d1cb",
+      "title": "鸟笼温室",
+      "x": -237,
+      "z": -491,
+      "summary": "最早的几只狐狸和从外面带来的鹦鹉全放到这里了",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "7d667f49-539e-4394-8ad3-c72d28015185",
+      "title": "熊猫乐园",
+      "x": -258,
+      "z": -491,
+      "summary": "熊猫找了半天才带回来",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "2580ae34-27a5-4ec5-acf7-5dc2b85f6dfd",
+      "title": "麦田",
+      "x": -289,
+      "z": -487,
+      "summary": "供给所有农产品",
+      "description": "农田由于重要性最低，三度搬家；但最早的开荒期就是靠种田度过的，因此必须“饮水思源”",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "987a1570-e204-4cce-941f-1e9c315dc152",
+      "title": "阳光温室",
+      "x": -325,
+      "z": -489,
+      "summary": "一个观赏性建筑",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/987a1570-e204-4cce-941f-1e9c315dc152/2026-02-24_18-29-33-4043192f.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "a8af80bf-fa00-446a-9a12-8a8bc1f83e64",
+      "title": "冒险家工会",
+      "x": -307,
+      "z": -458,
+      "summary": "欢迎来完成领取任务",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/a8af80bf-fa00-446a-9a12-8a8bc1f83e64/2026-09-07_15-27-19-9d5f0052.webp",
+          "alt": "冒险家工会的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/a8af80bf-fa00-446a-9a12-8a8bc1f83e64/2026-09-07_15-27-26-ffbc9034.webp",
+          "alt": "冒险家工会的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/a8af80bf-fa00-446a-9a12-8a8bc1f83e64/2026-09-07_15-27-35-772378f1.webp",
+          "alt": "冒险家工会的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "2f54153b-dab8-4030-85f0-df8ca6e88d6b",
+      "title": "公共熔炉",
+      "x": -243,
+      "z": -419,
+      "summary": "早期“高速”熔炉组",
+      "description": "自从工业区的两个高速熔炉组建好之后再没用过",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "119fab0c-2f56-4102-aa0e-e18f8f37a4e0",
+      "title": "Snowy的墓",
+      "x": -226,
+      "z": -477,
+      "summary": "纪念为我死去的小狗",
+      "description": "在岛屿开发中期时，未开发的西岸区刷新了末影人。\n\n我不小心看了一眼，当时还没有满级附魔合金套，被末影人快打死的时候狗子开始和它打了\n\n等我吃完食物回血安全后，狗子已经被打死了。\n\n因此在面朝阳光的地方，为它设置一个专属的墓地",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/119fab0c-2f56-4102-aa0e-e18f8f37a4e0/2026-01-11_14-39-46-0bae9e77.webp",
+          "alt": "Snowy的墓的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#ffffff"
+    },
+    {
+      "id": "a972b1a5-d5d9-4cfa-8c20-f9c412d43e7c",
+      "title": "蛋糕店",
+      "x": -286,
+      "z": -466,
+      "summary": "建立在二期麦田之上，提供小麦为基础的食品",
+      "description": "五哥哥的店",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/a972b1a5-d5d9-4cfa-8c20-f9c412d43e7c/2026-05-28_21-30-37-4aa1e7a1.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "786708a2-ada4-48a9-b49e-bff8683ad3eb",
+      "title": "早餐店",
+      "x": -271,
+      "z": -331,
+      "summary": "谁不想在去地狱之前吃顿饭呢",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "47c1bf9f-77be-441b-a6cd-3decb68d7673",
+      "title": "怪物监狱I",
+      "x": -290,
+      "z": -319,
+      "summary": "抓了四个怪物放在这里",
+      "description": "僵尸，骷髅，幻翼，掠夺者小队长",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "db534799-1421-45b9-b495-92a9e86fd685",
+      "title": "怪物监狱II",
+      "x": -225,
+      "z": -386,
+      "summary": "抓了一些怪物放在这里展览",
+      "description": "溺尸，闪电苦力怕，尸壳",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/db534799-1421-45b9-b495-92a9e86fd685/2026-09-07_14-41-13-1336ef88.webp",
+          "alt": "怪物监狱II的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "0ccc0b96-122f-471f-94b6-27ec4e1b895e",
+      "title": "乐魂港口",
+      "x": -311,
+      "z": -505,
+      "summary": "乐魂好超啊",
+      "description": "住在里岛北港的有福了",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/0ccc0b96-122f-471f-94b6-27ec4e1b895e/2026-09-07_15-30-38-4759afde.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/0ccc0b96-122f-471f-94b6-27ec4e1b895e/2026-07-25_11-00-38-a65c735e.webp",
+          "alt": "乐魂港口的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "0b1c3798-aa4b-4ff4-a222-4a16626a8d9b",
+      "title": "铁傀儡雕塑",
+      "x": -345,
+      "z": -331,
+      "summary": "纪念第一次V级掠夺胜利而建",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#ef6bd7"
+    },
+    {
+      "id": "0ab080f5-e920-4189-9b84-37678ab7f2a2",
+      "title": "里岛军政大厅",
+      "x": -433,
+      "z": -327,
+      "summary": "总管里岛的军事",
+      "description": "设定上FlameFrag驻扎在这里",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#6b97ef"
+    },
+    {
+      "id": "9d65a219-8a97-4f31-8963-b4cdc15c8d76",
+      "title": "小花园",
+      "x": -353,
+      "z": -356,
+      "summary": "早期有两个人喜欢在这里乱蹦跶",
+      "description": "这里养了一只犰狳，叫Donk",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/9d65a219-8a97-4f31-8963-b4cdc15c8d76/2026-02-24_18-24-47-40fab5e1.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#ef6bd7"
+    },
+    {
+      "id": "41d70836-37ac-498e-a20f-17fc16d6070f",
+      "title": "钓鱼台",
+      "x": -277,
+      "z": -525,
+      "summary": "花艺钓台",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "d82d2098-e857-4cea-ae71-5cf837f9e477",
+      "title": "东北港海上酒馆",
+      "x": -249,
+      "z": -534,
+      "summary": "吹着海风唱着歌",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/d82d2098-e857-4cea-ae71-5cf837f9e477/2026-07-25_10-58-26-f9752423.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#fea9d6"
+    },
+    {
+      "id": "55e4eb1b-20cd-4308-b628-fbc70463ab48",
+      "title": "虚空基地",
+      "x": -407,
+      "z": -487,
+      "summary": "基岩并不是牢不可破的",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/55e4eb1b-20cd-4308-b628-fbc70463ab48/2026-09-07_14-36-00-66bf7176.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/55e4eb1b-20cd-4308-b628-fbc70463ab48/2026-09-07_14-37-04-f3af27cf.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#6b97ef"
+    },
+    {
+      "id": "aae7bfe9-2436-4a5d-b9e8-eef1ed046ac3",
+      "title": "制图小屋",
+      "x": -386,
+      "z": -409,
+      "summary": "里岛大部分的地图都是在这里绘制的",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#95f745"
+    },
+    {
+      "id": "712422f3-e3be-41c6-a203-5395e3f9d09a",
+      "title": "Knight",
+      "x": -411,
+      "z": -366,
+      "summary": "骑士守护者西海岸",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#ef6bd7"
+    },
+    {
+      "id": "69920dfa-25af-4d1d-a0e4-c63f4e6716ae",
+      "title": "兔子",
+      "x": -395,
+      "z": -407,
+      "summary": "在找🐇吗?",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#ef6bd7"
+    },
+    {
+      "id": "32b3cc7d-89da-41d0-a3a8-6e522b2638e7",
+      "title": "彼岸小屋",
+      "x": -396,
+      "z": -419,
+      "summary": "工业区懒得回家就住这里",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "335cd49f-3c03-49e4-b64a-b6c398f7a5c4",
+      "title": "西港",
+      "x": -441,
+      "z": -422,
+      "summary": "使用较少",
+      "description": "这里有一个稀有物品展览馆，有一些非法物品展出",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#6b97ef"
+    },
+    {
+      "id": "d4cf2a3b-e924-4373-80d4-3db87cb91483",
+      "title": "西岸车站",
+      "x": -486,
+      "z": -376,
+      "summary": "向西出发",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [],
+      "color": "#6b97ef"
+    },
+    {
+      "id": "9bc72d9d-dff5-4802-aac5-d3406832f956",
+      "title": "树屋",
+      "x": -244,
+      "z": -505,
+      "summary": "我寻思一个生存档怎么能没这个呢？",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/9bc72d9d-dff5-4802-aac5-d3406832f956/2026-07-25_10-48-54-fe6e2e2c.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "1e4bdabf-6d5b-4e40-9bc3-645d28bb23c2",
+      "title": "守卫者农场",
+      "x": -294,
+      "z": 200,
+      "summary": "海底神殿的建筑材料不限量了",
+      "description": "",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/1e4bdabf-6d5b-4e40-9bc3-645d28bb23c2/2026-07-25_11-06-59-8f49bb6e.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#ef6b6b"
+    },
+    {
+      "id": "8a3fc7a9-2428-4e13-9fb7-1fc5f9e6f3b7",
+      "title": "我的工作间",
+      "x": -311,
+      "z": -403,
+      "summary": "村民原本在高地，由于总动我工作间的东西，所以迁到低地去了",
+      "description": "早期工作台，熔炉等都放在这里；后续工业时代，造起了这个房子",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/8a3fc7a9-2428-4e13-9fb7-1fc5f9e6f3b7/2026-09-07_15-37-28-dcd62dc8.webp",
+          "alt": "我的工作间的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/8a3fc7a9-2428-4e13-9fb7-1fc5f9e6f3b7/2026-09-07_15-37-47-453d841d.webp",
+          "alt": "我的工作间的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#6bef93"
+    },
+    {
+      "id": "00894a04-3ba2-4ad9-99dc-603e87a14905",
+      "title": "刷花机",
+      "x": -997,
+      "z": -620,
+      "summary": "想不到这里还有机器吧",
+      "description": "我好不喜欢这种离这么远的机器",
+      "color": "#e78473",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    },
+    {
+      "id": "75ea00a8-4604-4e40-b524-bb79e57abb26",
+      "title": "2014",
+      "x": 307,
+      "z": 594,
+      "summary": "这里好像是2014年的人生存时建造的",
+      "description": "",
+      "color": "#e8d978",
+      "tags": [],
+      "builtAt": "",
+      "images": []
+    }
+  ]
+}

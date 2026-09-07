@@ -21,6 +21,10 @@ out/
 *.bundle.js
 *.chunk.js
 
+# uNmINeD 的运行库中包含必要的压缩文件。
+!world/lib/*.min.js
+!world/lib/*.min.css
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

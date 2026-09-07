@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>兴趣点编辑器（仅本地）</title>
+    <base href="../world/">
+    <link rel="icon" type="image/webp" href="../map/logo.webp">
+    <link rel="stylesheet" href="lib/ol.css">
+    <link rel="stylesheet" href="lib/ol-contextmenu.css">
+    <link rel="stylesheet" href="lib/toastify-js.min.css">
+    <link rel="stylesheet" href="../map/map.css">
+    <script src="lib/ol.js"></script>
+    <script src="lib/ol-contextmenu.iife.js"></script>
+    <script src="lib/toastify-js.js"></script>
+    <script src="unmined.map.properties.js"></script>
+    <script src="unmined.map.regions.js"></script>
+    <script src="unmined.map.players.js"></script>
+    <script src="unmined.js"></script>
+  </head>
+  <body data-mode="editor">
+    <div id="map" aria-label="Minecraft 世界地图"></div>
+    <header class="map-chrome topbar editor-topbar">
+      <a class="icon-button home-link" href="../map/" aria-label="打开只读地图">←</a>
+      <div class="brand">
+        <strong>兴趣点编辑器</strong>
+        <span id="editor-status">只在本地保存，不会自动发布</span>
+      </div>
+      <button class="primary-button" id="save-all" type="button">保存全部</button>
+    </header>
+
+    <aside class="editor-panel" id="editor-panel">
+      <div class="panel-heading editor-heading">
+        <div>
+          <span class="eyebrow">LOCAL EDITOR</span>
+          <h2>兴趣点</h2>
+        </div>
+        <div class="editor-heading-actions">
+          <button class="secondary-button compact" id="toggle-editor-list" type="button" aria-expanded="true">收起</button>
+          <button class="primary-button compact" id="add-poi" type="button">＋ 新建</button>
+        </div>
+      </div>
+      <div class="editor-list" id="editor-list"></div>
+      <form class="poi-form" id="poi-form" hidden>
+        <label>名称<input name="title" required maxlength="80" placeholder="例如：海边车站"></label>
+        <div class="field-row">
+          <label>X 坐标<input name="x" required type="number" step="1"></label>
+          <label>Z 坐标<input name="z" required type="number" step="1"></label>
+        </div>
+        <button class="secondary-button" id="pick-position" type="button">在地图上重新选点</button>
+        <label>一句简介<input name="summary" maxlength="180" placeholder="列表与弹窗顶部显示的短句"></label>
+        <label>详细介绍<textarea name="description" rows="7" placeholder="建筑的来历、用途、故事……"></textarea></label>
+        <label>标记颜色
+          <span class="color-field"><input name="color" type="color" value="#f0c86d"><span>点击色块选择颜色</span></span>
+        </label>
+        <label>标签<input name="tags" placeholder="用英文逗号分隔，例如：交通, 生存基地"></label>
+        <label>建造时间<input name="builtAt" maxlength="40" placeholder="例如：2026 年夏"></label>
+        <div class="image-editor">
+          <div class="field-label">截图 <span class="field-note">上传时自动缩放并转换为 WebP</span></div>
+          <div id="image-list"></div>
+          <label class="secondary-button upload-button">上传截图<input id="image-upload" type="file" accept="image/png,image/jpeg,image/webp" multiple hidden></label>
+        </div>
+        <div class="form-actions">
+          <button class="danger-button" id="delete-poi" type="button">删除</button>
+          <button class="primary-button" id="save-current" type="submit">保存修改</button>
+        </div>
+      </form>
+      <div class="editor-empty" id="editor-empty">新建一个兴趣点，然后直接点击地图选择坐标。</div>
+    </aside>
+    <div class="pick-banner" id="pick-banner" hidden>请点击地图上的建筑位置 <button type="button" id="cancel-pick">取消</button></div>
+    <div class="loading" id="loading" role="status">正在启动本地编辑器…</div>
+    <script src="../map/map.js"></script>
+    <script src="../map/editor.js"></script>
+  </body>
+</html>

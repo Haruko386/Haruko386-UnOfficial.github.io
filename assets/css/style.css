@@ -134,7 +134,7 @@ body {
 .home {
   position: relative;
   z-index: 3;
-  width: min(92vw, 680px);
+  width: min(94vw, 900px);
   min-height: 100vh;
   margin: 0 auto;
   padding: 48px 20px;
@@ -205,7 +205,7 @@ h1 {
 }
 
 .links {
-  width: min(100%, 560px);
+  width: min(100%, 800px);
   padding-top: 25px;
   display: flex;
   flex-wrap: wrap;
@@ -271,6 +271,12 @@ code {
   }
   to {
     transform: translate3d(5%, 3%, 0) scale(1.1);
+  }
+}
+
+@media (min-width: 760px) {
+  .links {
+    flex-wrap: nowrap;
   }
 }
 

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="description" content="Haruko386 的 Minecraft 存档建筑地图">
+    <meta name="theme-color" content="#122019">
+    <title>My World</title>
+    <!-- 让 uNmINeD 内部的 tiles/... 始终指向可整体替换的 world 文件夹。 -->
+    <base href="../world/">
+    <link rel="icon" type="image/webp" href="../map/logo.webp">
+    <link rel="stylesheet" href="lib/ol.css">
+    <link rel="stylesheet" href="lib/ol-contextmenu.css">
+    <link rel="stylesheet" href="lib/toastify-js.min.css">
+    <link rel="stylesheet" href="../map/map.css">
+    <script src="lib/ol.js"></script>
+    <script src="lib/ol-contextmenu.iife.js"></script>
+    <script src="lib/toastify-js.js"></script>
+    <script src="unmined.map.properties.js"></script>
+    <script src="unmined.map.regions.js"></script>
+    <script src="unmined.map.players.js"></script>
+    <script src="unmined.js"></script>
+  </head>
+  <body data-mode="viewer">
+    <div id="map" aria-label="Minecraft 世界地图"></div>
+
+    <button class="map-chrome icon-button map-menu-button" id="open-list" type="button" aria-label="打开建筑列表">☰</button>
+
+    <div class="map-chrome map-hint" id="map-hint">拖动探索 · 滚轮缩放 · 点击标记查看建筑</div>
+
+    <aside class="poi-list" id="poi-list" aria-hidden="true">
+      <div class="panel-heading">
+        <div>
+          <span class="eyebrow">PLACES</span>
+          <h2>建筑目录</h2>
+        </div>
+        <button class="icon-button close-list" type="button" aria-label="关闭建筑列表">×</button>
+      </div>
+      <div class="poi-list-content" id="poi-list-content"></div>
+    </aside>
+
+    <div class="backdrop" id="poi-backdrop" hidden>
+      <article class="poi-dialog" role="dialog" aria-modal="true" aria-labelledby="poi-title">
+        <button class="dialog-close" id="dialog-close" type="button" aria-label="关闭建筑介绍">×</button>
+        <div class="gallery" id="poi-gallery"></div>
+        <div class="poi-copy">
+          <div class="poi-meta" id="poi-meta"></div>
+          <h1 id="poi-title"></h1>
+          <p class="poi-summary" id="poi-summary"></p>
+          <div class="poi-description" id="poi-description"></div>
+          <div class="poi-tags" id="poi-tags"></div>
+        </div>
+      </article>
+    </div>
+
+    <div class="loading" id="loading" role="status">正在展开世界地图…</div>
+    <script src="../map/map.js"></script>
+  </body>
+</html>
