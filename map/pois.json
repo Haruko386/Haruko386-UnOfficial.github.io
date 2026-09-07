@@ -29,6 +29,11 @@
           "src": "../map/media/32428833-4c51-47a6-80e0-a85893652d03/2026-09-07_15-11-16-6395c656.webp",
           "alt": "中央图书馆的截图",
           "caption": ""
+        },
+        {
+          "src": "../map/media/32428833-4c51-47a6-80e0-a85893652d03/2026-09-07_19-10-39-5143a13f.webp",
+          "alt": "中央图书馆的截图",
+          "caption": ""
         }
       ],
       "color": "#fe8616"
@@ -115,14 +120,30 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/97f7f8ee-e04f-4eb5-a8cb-74eaea92b6e7/2026-09-07_18-33-22-c074f23c.webp",
+          "alt": "向日葵餐厅的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/97f7f8ee-e04f-4eb5-a8cb-74eaea92b6e7/2026-09-07_18-33-44-b69b86aa.webp",
+          "alt": "向日葵餐厅的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/97f7f8ee-e04f-4eb5-a8cb-74eaea92b6e7/2026-09-07_18-33-52-75949616.webp",
+          "alt": "向日葵餐厅的截图",
+          "caption": ""
+        }
+      ],
       "color": "#fe8616"
     },
     {
       "id": "a3b28bb2-5131-46cc-b9d9-5d5c6f09fc77",
       "title": "工业区",
-      "x": -382,
-      "z": -502,
+      "x": -384,
+      "z": -495,
       "summary": "为岛内量产绝大多数的资源和材料",
       "description": "地图上整个石头的区域都是工业区",
       "tags": [],
@@ -290,8 +311,14 @@
           "src": "../map/media/27f0887d-dff9-43bd-9ed8-6a86dfa5b90e/2026-02-11_11-44-31-8241f243.webp",
           "alt": "地狱大厅入口的截图",
           "caption": ""
+        },
+        {
+          "src": "../map/media/27f0887d-dff9-43bd-9ed8-6a86dfa5b90e/2026-09-07_19-21-23-d576e52b.webp",
+          "alt": "地狱大厅入口的截图",
+          "caption": ""
         }
-      ]
+      ],
+      "color": "#f0c86d"
     },
     {
       "id": "4ba51f60-9a6f-4759-8b19-6b423f769b9b",
@@ -455,7 +482,18 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/a3eb8181-fc8a-41b5-9918-0a56a587e4f2/2026-09-07_18-43-02-df741bdb.webp",
+          "alt": "后山图书馆的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/a3eb8181-fc8a-41b5-9918-0a56a587e4f2/2026-09-07_18-43-07-31c45d27.webp",
+          "alt": "后山图书馆的截图",
+          "caption": ""
+        }
+      ],
       "color": "#fea9d6"
     },
     {
@@ -510,10 +548,27 @@
       "x": -320,
       "z": -378,
       "summary": "里岛上定居的村庄",
-      "description": "原住民除Bob还在旧村民交易所工作外，其它村民全部死于V级袭击",
+      "description": "原住民除Bob还在旧村民交易所工作外，其它村民全部死于V级袭击\n\n目前已经保有全群系村民",
       "tags": [],
       "builtAt": "",
-      "images": []
+      "images": [
+        {
+          "src": "../map/media/5a7d6718-544a-4764-ba36-aa8c6b6c8f9f/2026-09-07_18-57-33-0ceadb79.webp",
+          "alt": "里岛村庄的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/5a7d6718-544a-4764-ba36-aa8c6b6c8f9f/2026-09-07_18-57-44-b29db987.webp",
+          "alt": "里岛村庄的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/5a7d6718-544a-4764-ba36-aa8c6b6c8f9f/2026-09-07_19-20-36-5b2933f1.webp",
+          "alt": "里岛村庄的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#f0c86d"
     },
     {
       "id": "0fe7d96c-7eb7-44a2-8bc8-8f124c47ff05",
@@ -524,7 +579,13 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/0fe7d96c-7eb7-44a2-8bc8-8f124c47ff05/2026-09-07_19-16-00-6a1fa66f.webp",
+          "alt": "竞技场的截图",
+          "caption": ""
+        }
+      ],
       "color": "#fe8616"
     },
     {
@@ -554,7 +615,23 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/58363938-f2ae-4af2-b3a9-9a6b084e6e82/2026-09-07_18-55-30-4b0a4026.webp",
+          "alt": "议会大厅的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/58363938-f2ae-4af2-b3a9-9a6b084e6e82/2026-09-07_18-56-24-353705ec.webp",
+          "alt": "议会大厅的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/58363938-f2ae-4af2-b3a9-9a6b084e6e82/2026-09-07_18-56-13-7d624966.webp",
+          "alt": "议会大厅的截图",
+          "caption": ""
+        }
+      ],
       "color": "#fe8616"
     },
     {
@@ -584,7 +661,13 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/905359b9-2881-41f2-a5ac-1b5102b355c6/2026-09-07_19-05-52-b4ac51a1.webp",
+          "alt": "东南港瞭望塔的截图",
+          "caption": ""
+        }
+      ],
       "color": "#fea9d6"
     },
     {
@@ -596,7 +679,14 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": []
+      "images": [
+        {
+          "src": "../map/media/06d8f1db-f2ae-4ca0-953a-3a818708d411/2026-09-07_18-25-11-8ae082f1.webp",
+          "alt": "南港灯塔的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#f0c86d"
     },
     {
       "id": "eae248c5-cccf-4c34-b36e-10f997917322",
@@ -607,7 +697,18 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/eae248c5-cccf-4c34-b36e-10f997917322/2026-09-07_18-32-24-dccbd019.webp",
+          "alt": "瓶子餐厅的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/eae248c5-cccf-4c34-b36e-10f997917322/2026-09-07_18-32-33-c817364e.webp",
+          "alt": "瓶子餐厅的截图",
+          "caption": ""
+        }
+      ],
       "color": "#fea9d6"
     },
     {
@@ -619,7 +720,14 @@
       "description": "这里关押着一些下届过来的生物；\n任何人不得使用这个地狱门，即使它已经被点亮",
       "tags": [],
       "builtAt": "",
-      "images": []
+      "images": [
+        {
+          "src": "../map/media/5bedad35-89a5-451d-8009-baefdc9e5052/2026-09-07_18-47-46-a542dd78.webp",
+          "alt": "里岛地狱门旧址的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#f0c86d"
     },
     {
       "id": "1a7930f4-5984-4001-a6f0-177c2ac6363f",
@@ -641,7 +749,18 @@
       "description": "它储量不大，存储无逻辑，不方便，但这是开荒时期全部的资源存储地。\n后续计划修建新的仓库，旧仓库只作为纪念意义保留",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/e030f9af-253c-4fd1-8d65-a28c20c18948/2026-09-07_18-37-55-8e0182fb.webp",
+          "alt": "中央仓库的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/e030f9af-253c-4fd1-8d65-a28c20c18948/2026-09-07_18-38-02-350e81c7.webp",
+          "alt": "中央仓库的截图",
+          "caption": ""
+        }
+      ],
       "color": "#95f745"
     },
     {
@@ -653,7 +772,23 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/bb1eeaf8-24df-4865-8595-fc773381bf88/2026-09-07_18-35-08-1f7310f9.webp",
+          "alt": "中央附魔室的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/bb1eeaf8-24df-4865-8595-fc773381bf88/2026-09-07_18-35-21-27e19048.webp",
+          "alt": "中央附魔室的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/bb1eeaf8-24df-4865-8595-fc773381bf88/2026-09-07_18-35-27-23770572.webp",
+          "alt": "中央附魔室的截图",
+          "caption": ""
+        }
+      ],
       "color": "#95f745"
     },
     {
@@ -665,7 +800,14 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": []
+      "images": [
+        {
+          "src": "../map/media/e595ae45-1207-449a-a639-0ab0639c7f78/2026-09-07_18-57-51-04636898.webp",
+          "alt": "里岛村民工作站的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#f0c86d"
     },
     {
       "id": "a2061b94-cde1-402a-b166-ab62dcc822e9",
@@ -728,7 +870,18 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/3d636a3f-79e8-43c1-a6ff-c6258b7cb058/2026-09-07_18-46-55-1d18c286.webp",
+          "alt": "钟楼的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/3d636a3f-79e8-43c1-a6ff-c6258b7cb058/2026-09-07_18-47-02-dc36acde.webp",
+          "alt": "钟楼的截图",
+          "caption": ""
+        }
+      ],
       "color": "#fea9d6"
     },
     {
@@ -740,7 +893,13 @@
       "description": "所有的旗帜，盾牌都产自于这里",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/9b9a3555-f38a-4a5a-b63e-9b9446e3b9f7/2026-09-07_19-11-36-1f9ebe33.webp",
+          "alt": "花花裁缝铺的截图",
+          "caption": ""
+        }
+      ],
       "color": "#95f745"
     },
     {
@@ -786,7 +945,14 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": []
+      "images": [
+        {
+          "src": "../map/media/d57731b5-85e4-4913-b20d-9ce5bb1664b3/2026-09-07_19-06-32-62c7696d.webp",
+          "alt": "萤火虫小屋的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#f0c86d"
     },
     {
       "id": "b3012c42-3abc-4d6d-8066-9b96c8e2a3a9",
@@ -808,7 +974,13 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/15d1c521-0d12-45ac-a9a5-3819fb56d1cb/2026-09-07_19-07-15-6acd35d1.webp",
+          "alt": "鸟笼温室的截图",
+          "caption": ""
+        }
+      ],
       "color": "#fea9d6"
     },
     {
@@ -820,7 +992,13 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/7d667f49-539e-4394-8ad3-c72d28015185/2026-09-07_19-07-51-1d3c6e05.webp",
+          "alt": "熊猫乐园的截图",
+          "caption": ""
+        }
+      ],
       "color": "#fea9d6"
     },
     {
@@ -832,7 +1010,14 @@
       "description": "农田由于重要性最低，三度搬家；但最早的开荒期就是靠种田度过的，因此必须“饮水思源”",
       "tags": [],
       "builtAt": "",
-      "images": []
+      "images": [
+        {
+          "src": "../map/media/2580ae34-27a5-4ec5-acf7-5dc2b85f6dfd/2026-09-07_19-08-42-488320f5.webp",
+          "alt": "麦田的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#f0c86d"
     },
     {
       "id": "987a1570-e204-4cce-941f-1e9c315dc152",
@@ -889,7 +1074,14 @@
       "description": "自从工业区的两个高速熔炉组建好之后再没用过",
       "tags": [],
       "builtAt": "",
-      "images": []
+      "images": [
+        {
+          "src": "../map/media/2f54153b-dab8-4030-85f0-df8ca6e88d6b/2026-09-07_19-10-59-b4605a0e.webp",
+          "alt": "公共熔炉的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#f0c86d"
     },
     {
       "id": "119fab0c-2f56-4102-aa0e-e18f8f37a4e0",
@@ -936,7 +1128,13 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/786708a2-ada4-48a9-b49e-bff8683ad3eb/2026-09-07_19-20-16-6d867617.webp",
+          "alt": "早餐店的截图",
+          "caption": ""
+        }
+      ],
       "color": "#fea9d6"
     },
     {
@@ -948,7 +1146,14 @@
       "description": "僵尸，骷髅，幻翼，掠夺者小队长",
       "tags": [],
       "builtAt": "",
-      "images": []
+      "images": [
+        {
+          "src": "../map/media/47c1bf9f-77be-441b-a6cd-3decb68d7673/2026-09-07_18-58-37-de88a18b.webp",
+          "alt": "怪物监狱I的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#f0c86d"
     },
     {
       "id": "db534799-1421-45b9-b495-92a9e86fd685",
@@ -998,7 +1203,13 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/0b1c3798-aa4b-4ff4-a222-4a16626a8d9b/2026-09-07_18-25-20-a35156ab.webp",
+          "alt": "铁傀儡雕塑的截图",
+          "caption": ""
+        }
+      ],
       "color": "#ef6bd7"
     },
     {
@@ -1010,7 +1221,23 @@
       "description": "设定上FlameFrag驻扎在这里",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/0ab080f5-e920-4189-9b84-37678ab7f2a2/2026-09-07_18-47-11-c50fecec.webp",
+          "alt": "里岛军政大厅的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/0ab080f5-e920-4189-9b84-37678ab7f2a2/2026-09-07_18-47-18-3f678ed4.webp",
+          "alt": "里岛军政大厅的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/0ab080f5-e920-4189-9b84-37678ab7f2a2/2026-09-07_18-47-23-914c8e18.webp",
+          "alt": "里岛军政大厅的截图",
+          "caption": ""
+        }
+      ],
       "color": "#6b97ef"
     },
     {
@@ -1040,7 +1267,14 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": []
+      "images": [
+        {
+          "src": "../map/media/41d70836-37ac-498e-a20f-17fc16d6070f/2026-09-07_18-50-44-0e38234a.webp",
+          "alt": "钓鱼台的截图",
+          "caption": ""
+        }
+      ],
+      "color": "#f0c86d"
     },
     {
       "id": "d82d2098-e857-4cea-ae71-5cf837f9e477",
@@ -1092,7 +1326,13 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/aae7bfe9-2436-4a5d-b9e8-eef1ed046ac3/2026-09-07_18-42-54-9c5bc4f5.webp",
+          "alt": "制图小屋的截图",
+          "caption": ""
+        }
+      ],
       "color": "#95f745"
     },
     {
@@ -1104,7 +1344,13 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/712422f3-e3be-41c6-a203-5395e3f9d09a/2026-09-07_18-40-21-36df2977.webp",
+          "alt": "Knight的截图",
+          "caption": ""
+        }
+      ],
       "color": "#ef6bd7"
     },
     {
@@ -1116,7 +1362,13 @@
       "description": "",
       "tags": [],
       "builtAt": "",
-      "images": [],
+      "images": [
+        {
+          "src": "../map/media/69920dfa-25af-4d1d-a0e4-c63f4e6716ae/2026-09-07_18-43-22-30ff6577.webp",
+          "alt": "兔子的截图",
+          "caption": ""
+        }
+      ],
       "color": "#ef6bd7"
     },
     {
@@ -1234,7 +1486,77 @@
       "color": "#e8d978",
       "tags": [],
       "builtAt": "",
-      "images": []
+      "images": [
+        {
+          "src": "../map/media/75ea00a8-4604-4e40-b524-bb79e57abb26/2026-09-07_19-19-22-e89a5921.webp",
+          "alt": "2014的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "4e185a9d-87fe-4280-81c1-fade8de88e0b",
+      "title": "公共熔炉",
+      "x": -243,
+      "z": -419,
+      "summary": "早期的“高速熔炉”",
+      "description": "工业化开启后再没用过……",
+      "color": "#c58bd1",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/4e185a9d-87fe-4280-81c1-fade8de88e0b/2026-09-07_19-10-59-970af5c6.webp",
+          "alt": "公共熔炉的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "1514e6bc-4111-40cc-a1ff-69bd470c7f8c",
+      "title": "中央唱片馆",
+      "x": -289,
+      "z": -425,
+      "summary": "唱片全收集",
+      "description": "",
+      "color": "#ed9f57",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/1514e6bc-4111-40cc-a1ff-69bd470c7f8c/2026-09-07_18-52-40-f335cdd4.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/1514e6bc-4111-40cc-a1ff-69bd470c7f8c/2026-09-07_18-52-53-db1ba455.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "f86fafa7-c81c-4389-9d18-87d5d126e341",
+      "title": "出生点",
+      "x": -242,
+      "z": -374,
+      "summary": "一切从这里开始",
+      "description": "",
+      "color": "#2eff6d",
+      "tags": [],
+      "builtAt": "",
+      "images": [
+        {
+          "src": "../map/media/f86fafa7-c81c-4389-9d18-87d5d126e341/2026-09-07_18-56-57-99c7cfa5.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        },
+        {
+          "src": "../map/media/f86fafa7-c81c-4389-9d18-87d5d126e341/2026-09-07_18-57-04-16ee18dc.webp",
+          "alt": "新建筑的截图",
+          "caption": ""
+        }
+      ]
     }
   ]
 }
